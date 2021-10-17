@@ -1,0 +1,36 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+.menu {
+  margin: 0 auto;
+}
+body {
+  font-family: "calibri";
+}
+header {
+  display: flex;
+  justify-content: space-between;
+}
+header nav ul {
+  display: flex;
+  justify-content: center;
+}
+.main-nav {
+  margin-top: 10px;
+  list-style: none;
+}
+.main-nav__item {
+  display: incline-black;
+}
+.main-nav__item a {
+  padding: 5px;
+  text-decoration: none;
+}
+.main-nav__item a:hover {
+  color: blue;
+}
+.main-nav__item a:active {
+  color: red;
+}
