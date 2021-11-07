@@ -1,0 +1,22 @@
+header {
+  display: flex;
+  justify-content: space-between;
+}
+header nav {
+  display: none;
+}
+header nav ul {
+  display: flex;
+  list-style: none;
+  gap: 24px;
+}
+.main-nav__item a {
+  text-decoration: none;
+}
+
+.main-nav__item a:hover {
+  color: blue;
+}
+.main-nav__item a:active {
+  color: red;
+}

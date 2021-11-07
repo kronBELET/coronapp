@@ -1,0 +1,27 @@
+.mantente-seguro {
+  display: flex;
+}
+
+.mantente-seguro_texto {
+  justify-content: flex-start;
+}
+
+.expertos {
+  display: inline-block;
+}
+
+.expertos_lista {
+  display: flex;
+}
+
+.habla_con_expertos {
+  display: flex;
+}
+
+.cuidado_de_salud {
+  display: block;
+}
+
+.comprobador_de_simtomas {
+  display: flex;
+}
